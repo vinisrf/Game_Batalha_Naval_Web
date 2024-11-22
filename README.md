@@ -2,4 +2,4 @@
 <h3>projeto desenvolvido no curso senai programador front-end 2024</h3>
 <h3>HTML | CSS | JAVASCRIPT</h3>
 
-<p>Projeto passando por melhorias constantes.</p>
+<p>*Projeto passando por melhorias constantes.</p>
